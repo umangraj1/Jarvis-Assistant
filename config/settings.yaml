@@ -1,0 +1,9 @@
+wake_word: "jarvis"
+response_language: "english"
+log_path: "data/logs/"
+default_model: "mistral"
+response_length: 150
+voice:
+  id: "com.apple.speech.synthesis.voice.samantha"
+  rate: 175
+  volume: 0.95
